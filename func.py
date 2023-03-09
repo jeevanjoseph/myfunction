@@ -2,8 +2,8 @@ import io
 import json
 import logging
 import requests
-import zipkin_span
-import zipkin_attrs
+import py_zipkin
+
 from fdk import response
 
 
